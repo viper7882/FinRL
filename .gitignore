@@ -145,3 +145,4 @@ finrl_test.py
 test_plugplay.py
 papertrading_test.py
 alpaca_processor_test.py
+/swig_for_windows/swigwin-3.0.12/
